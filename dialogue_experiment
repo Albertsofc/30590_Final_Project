@@ -1,0 +1,17 @@
+Dialogue
+Hey how are you?
+End dialogue
+
+Responses
+a) Good|I'm glad to hear it
+b) Bad|I'm sorry to hear that
+End responses
+
+Dialogue
+Are you dumb?
+End dialogue
+
+Responses
+a) Yes|Same here!
+b) No|I don't believe you.
+End responses
